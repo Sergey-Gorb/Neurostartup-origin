@@ -1,4 +1,7 @@
 \tmp
+\css
+\img
+\js
 .DS_Store
 Thubs.db
 *.*_old
